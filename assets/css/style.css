@@ -10,38 +10,45 @@
 }
 
 .debug .flex_container{
-    height: 300px;
+  
 }
 
 .debug #site_header{
     height: 60px;
-    padding: 2rem auto;
+    padding: 0.75rem;
     background-color: blueviolet
 }
 
 .debug #site_main{
-    height: ;
+    
 }
 
 .container{
     width: 70%;
-    height: 15px;
+    margin: auto;
     background-color: yellow;
-    padding: 0.5rem;
+    padding: 0.25rem;
 }
+
 
 .menu{
     width: 60%;
-    height: 50px;
-    border: ;
+    border: 2px dashed black;
+    text-align: center;
 }
 
 .logo{
     width: 20%;
+    border: 2px dashed black;
 }
 
 .login{
     width: 20%;
     text-align: right;
+    border: 2px dashed black;
+}
+
+#site_header{
+
 }
  
