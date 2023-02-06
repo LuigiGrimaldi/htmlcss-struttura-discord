@@ -4,3 +4,44 @@
     box-sizing: border-box;
 }
 
+.flex_container{
+    display: flex;
+    justify-content: center;
+}
+
+.debug .flex_container{
+    height: 300px;
+}
+
+.debug #site_header{
+    height: 60px;
+    padding: 2rem auto;
+    background-color: blueviolet
+}
+
+.debug #site_main{
+    height: ;
+}
+
+.container{
+    width: 70%;
+    height: 15px;
+    background-color: yellow;
+    padding: 0.5rem;
+}
+
+.menu{
+    width: 60%;
+    height: 50px;
+    border: ;
+}
+
+.logo{
+    width: 20%;
+}
+
+.login{
+    width: 20%;
+    text-align: right;
+}
+ 
