@@ -111,6 +111,16 @@
     background-color: rgb(35, 15, 57);
 }
 
+.debug #technology{
+    height: 700px;
+    background-color: rgb(132, 99, 105);
+}
+
+.debug .big_block{
+    height: 600px;
+    background-color: rgb(12, 201, 201);
+}
+
 /* --/ END REGION DEBUG */
 
 .menu {
