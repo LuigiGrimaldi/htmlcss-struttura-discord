@@ -157,21 +157,25 @@
 .debug .button {
     height: 70px;
     background-color: rgb(14, 11, 11);
+    padding-top: 1.25rem;
 }
 
 .debug .box_button {
     height: 3rem;
     background-color: cyan;
     border: dashed;
+    padding: 0.5rem;
 }
 
 .debug .logo_footer {
-    padding: 0.25rem;
+    text-align: center;
+    padding: 0.10rem;
     border: dashed;
 }
 
 .debug .button_footer {
-    padding: 0.25rem;
+    text-align: center;
+    padding: 0.10rem;
     border: dashed;
 }
 
